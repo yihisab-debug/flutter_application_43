@@ -351,7 +351,7 @@ class _UserListScreenState extends State<UserListScreen> {
             SizedBox(height: 20),
 
             Container(
-              height: double.infinity,
+              height: 800,
               decoration: BoxDecoration(
                 border: Border.all(color: Colors.orange),
               ),
